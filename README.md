@@ -1,4 +1,4 @@
-# string-analyzer
+# string-formatter
 
 This project provides unittest sample with a simple string formatter tool.
 
