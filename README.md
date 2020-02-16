@@ -26,4 +26,4 @@ cd test
 ./coverage.sh
 
 ## Contacts
-<jin.l.liu@daimler.com>
+<jruoye@hotmail.com>
